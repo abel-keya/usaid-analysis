@@ -1,9 +1,10 @@
-# Autolib Data Analysis
-### By Sharon Maswai
+# USAID Data Analysis
+
+### By Abel Keya, Leah Mbugua, Laura Kinya, Margaret Kuria, Jasline Gati, Margaret Njeri, Sharon Maswai, Victor Mwenda
 
 ## Description
 
-This is an analysis of Autolib dataset on electric cars in France to determin the popular picking hour for the Bluecar, popular stations and postal code and the popular hour for returning the Bluecar.
+This is an analysis of Development_Credit_Authority__DCA__Data_Set__Loan_Transactions dataset from the USAID to establish the most funded regions, business sectors and the loan uptake frequency.
 ## Requirements
 
 *Google colab notebook
@@ -18,11 +19,9 @@ This is an analysis of Autolib dataset on electric cars in France to determin th
 * Numpy Python Library
 
 
-## Bugs
-At the time of completion there were no known bugs.
 
 ## Support
 In case of any clarifications or suggestions with regards to this project email me at chepsharonmaswai@gmail.com
 
 ## License
-Copyright (c) 2019 **Sharon Maswai**
+Copyright (c) 2019 ** Moringa School **
